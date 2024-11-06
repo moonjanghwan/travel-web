@@ -1,8 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 2025 유럽 여행 계획 웹사이트
 
-## Getting Started
+Next.js와 TypeScript를 사용하여 만든 여행 계획 웹사이트입니다.
 
-First, run the development server:
+## 기능
+
+- 여행 일정 및 예산 계획 표시
+- Google Sheets API 연동
+- 다크 모드 지원
+- 반응형 디자인
+- 애니메이션 효과
+
+## 기술 스택
+
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Google Sheets API
+
+## 시작하기
+
+1. 저장소 클론:
+
+```bash
+git clone https://github.com/your-username/europe-travel-2025.git
+```
+
+2. 의존성 설치
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
+3. 개발 서버 실행:
 
 ```bash
 npm run dev
